@@ -1,6 +1,6 @@
 # Site settings
 title: Damonluffy Blog
-SEOTitle: Damonluffy's blog | Damonluffy Blog
+SEOTitle: Damonluffy's blog
 header-img: img/home-bg.jpg
 email: damonluffy@outlook.com
 description: "Story about damonluffy"
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     damonluffy
+zhihu_username:     damonluffy
+github_username:    damonluffy
+#twitter_username:  damonluffy
+facebook_username:  damonluffy
 # linkedin_username:  firstname-lastname-idxxxx
 
 
