@@ -83,8 +83,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Su",
-        href: "http://su.gallery/"
+        title: "fontawesome",
+        href: "http://fontawesome.io/examples/"
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
