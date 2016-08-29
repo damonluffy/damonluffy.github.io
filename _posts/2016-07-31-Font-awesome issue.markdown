@@ -23,6 +23,8 @@ security.mixed_content.block_active_content默认值被设置为True了
 
 这样，在HTTPS的网页中，如果引用了HTTP的资源，就会出错。
 
+git pages 在不配置自己的域名的情况下就只能用https了，要么申请一个域名，要么找到https的cdn。
+
  
 解决方式：
 
