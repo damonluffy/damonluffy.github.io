@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "如何培养能力比较弱的同事"
+subtitle:   " \"\""
+date:       2016-08-27 12:00:00
+author:     "damonluffy"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 培训
+---
+
+> “天道酬勤”
+
+1， 给她们适当超出他们能力的活。
+
+2， 千万不要让他们闲着，能力弱的人闲着真的是闲着。
+
+3， 培训不能少， 一个一个知识点补上来。
+
+4， 需求目标明确的task. 

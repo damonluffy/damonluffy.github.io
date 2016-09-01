@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Linux拷贝目录"
+subtitle:   " \"\""
+date:       2016-08-27 12:00:00
+author:     "damonluffy"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Linux
+---
+
+> “天道酬勤”
+
+cp命令复制目录的时候 一般要加上-r 或者-a 参数 使其递归复制目录及子目录，否则就会忽略掉目录
+cp -a -r * ../newdirectory
